@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "svelte-lazy-image": "^0.5.1"
+  }
+}
